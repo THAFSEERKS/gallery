@@ -1,0 +1,15 @@
+git and github
+--------------
+
+vcm-version control system
+
+git operations
+-push-local to remote repo -projecct and new updation
+-clone-remote to local repo-exact copy of project
+-pull-remote tp locate-new changes will be delivered
+
+push
+-----
+1.git add - local storage to staging area
+2.git commit-staging area to local repository
+
